@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<link href="https://fonts.googleapis.com/css?family=Goudy+Bookletter+1911" rel="stylesheet">
+<div class="home">
+
+  {{ content }}
+
+  <ul class="post-list">
+    <h1>Updates</h1>
+    {% for post in site.posts %}
+      <li>
+        {% assign date_format = site.minima.date_format | default: "%-d %b %Y" %}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+
+</div>
