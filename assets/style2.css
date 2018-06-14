@@ -235,7 +235,7 @@ a.title, a.title:visited {
                 width: 50%;
             }
          h1, h1:visited {
-           color: #FFFFFF !important;
+           color: #000000;
            font:  24px 'Goudy Bookletter 1911', serif;
 
         }
