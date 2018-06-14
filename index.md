@@ -9,8 +9,5 @@ layout: home
 </head>
 <body>
 
-<script src='javascript/d3.js'></script>
-<script src='javascript/lodash.js'></script>
-<script src='javascript/analysis.js'></script>
 </body>
 </html>

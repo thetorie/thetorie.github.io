@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bio
-permalink: /bio/
+title: About
+permalink: /about/
 ---
 <h1>About</h1>
 <p>PhD student in Critical and Comparative Studies in Music at the University of Virginia. </p>
