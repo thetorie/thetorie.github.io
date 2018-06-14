@@ -68,9 +68,9 @@ h2 {
 
 
 li {
-    font-size: 16px;
-    color: #000000;
-    line-height: 2;
+  font: 16px "helvetica neue", sans-serif;
+  color: #000000;
+  line-height: 2;
     }
 
 
@@ -239,6 +239,18 @@ a.title, a.title:visited {
            font: 20px "helvetica neue", sans-serif;
            font-weight: 500;
         }
+        a, a:visited{
+    font-size: 16px;
+    color: #8533FF;
+    line-height: 0;
+    margin: 0px;
+    text-decoration: none;
+    }
+
+    a:hover {
+          text-decoration: underline;
+
+    }
            .page-content {
             font: 20px "helvetica neue";
             font-weight: normal;
