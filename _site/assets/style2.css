@@ -85,7 +85,7 @@ li {
   border-top: 0px #000000 solid;
   border-bottom: 1px #000000 solid;
   position: fixed;
-  top: 10px;
+  top: 0px;
   left: 0px;
   width: 100%;
   height: 60px;
@@ -129,7 +129,6 @@ a.title, a.title:visited {
 }
 
  .page-content {
-    padding: 0px;
     font: 20px "helvetica neue";
     font-weight: normal;
     background-color: #FFFFFF;
