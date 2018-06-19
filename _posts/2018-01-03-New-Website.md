@@ -12,4 +12,4 @@ This method allows for more discoverable research. To that end, the data is disp
 
 The formatting and Javascript are, of course, a work in progress, and are just one small model of what I hope will be a larger project in the future!
 
-Drop me a line at <a href="http://www.twitter.com/t0riec">my twitter</a> with any comments, or check out my code on my <a href="http://www.github.com/thetorie">github repo</a>!
+Drop me a line at <a href="http://www.twitter.com/t0riec">my twitter</a> with any comments, or check out my code on the Praxis team's <a href="https://github.com/uva-reveal/uva-reveal.github.io">github repo</a>!
