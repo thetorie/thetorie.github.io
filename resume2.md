@@ -11,7 +11,7 @@
     <a href="/">Back to website</a>
     <section id="main">
       <header id="title">
-       <h1>Victoria Clark</h1>
+        <h1>Victoria Clark</h1>
       </header>
       <section class="main-block concise">
         <h2>
