@@ -156,6 +156,7 @@ a.title, a.title:visited {
     display:block;
     font-size: 16px;
     font-weight: normal;
+    color:#04C3A0;
 }
 .post-header{
     margin-bottom:30px
