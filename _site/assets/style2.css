@@ -76,7 +76,7 @@ li {
 
 .site-sidebar{
   overflow: hidden;
-  background-color: #F7FCFB;
+  background-color: #F9FFFE;
 /*  background-image:
     radial-gradient(#D3D3D3 20%, transparent 0), 
     radial-gradient(#D3D3D3 20%, transparent 0);
@@ -216,7 +216,7 @@ a.title, a.title:visited {
             z-index: 1;
             top: 0;
             left: 0;
-            background-color: #F7FCFB;
+            background-color: #F9FFFE;
             overflow-x: hidden;
                 }
         ul, .nav-link, .nav-link:visited {

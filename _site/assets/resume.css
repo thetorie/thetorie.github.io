@@ -73,4 +73,6 @@ li{
 @media screen and (max-width: 714px){
   body{
     position: static;
-  margin-left: 10px;}
+  margin-left: 10px;
+}
+}
