@@ -208,6 +208,7 @@ a.title, a.title:visited {
         .site-sidebar  {
             height: 100%;
             width: 80px;
+              background-color: #F7FCFB;
             border-right: 1px #000000 solid;
             border-left: 0px #000000 solid;
             border-top: 0px;
