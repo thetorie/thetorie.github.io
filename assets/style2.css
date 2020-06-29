@@ -208,7 +208,6 @@ a.title, a.title:visited {
         .site-sidebar  {
             height: 100%;
             width: 80px;
-              background-color: #F7FCFB;
             border-right: 1px #000000 solid;
             border-left: 0px #000000 solid;
             border-top: 0px;
@@ -217,7 +216,7 @@ a.title, a.title:visited {
             z-index: 1;
             top: 0;
             left: 0;
-            background-color: #FFFFFF;
+            background-color: #F7FCFB;
             overflow-x: hidden;
                 }
         ul, .nav-link, .nav-link:visited {
