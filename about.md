@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <h1>About</h1>
-<p>PhD student in Critical and Comparative Studies in Music at the University of Virginia. </p>
+<p>PhD candidate in Critical and Comparative Studies in Music at the University of Virginia. </p>
 
 <p>Uses music analysis, archival research, and indigenous studies methodologies to research the representation of American Indians in 20th century American music.</p>
 
@@ -15,5 +15,4 @@ permalink: /about/
 	<li>Analyzing music as both sonic and visual to accommodate various users</li>
 	<li>Incorporating multidisciplinary approaches and theories to relate to various disciplinary and methodological literacies</li>
 	<li>Presenting research in a digital format conducive to multiple levels of comfort with the topic and analyticial methods</li>
-	<li>Incorporating the principles of Universal Design</li>
 </ul>

@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "TBD"
-date:   No Date
+date:   2020-06-28
 categories: Updates
 ---
