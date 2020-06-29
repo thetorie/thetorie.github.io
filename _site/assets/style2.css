@@ -76,7 +76,7 @@ li {
 
 .site-sidebar{
   overflow: hidden;
-  background-color: #F9FFFE;
+  background-image: url("light-grey-terrazzo.png");
 /*  background-image:
     radial-gradient(#D3D3D3 20%, transparent 0), 
     radial-gradient(#D3D3D3 20%, transparent 0);
