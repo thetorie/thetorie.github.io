@@ -4,7 +4,7 @@ html {
 body{
     font:15px -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
     color:#000000;
-    background-image: url("what-the-hex.png");
+    background-image: url("light-grey-terrazzo.png");
     -webkit-text-size-adjust:100%;
     -webkit-font-feature-settings:"kern" 1;
     -moz-font-feature-settings:"kern" 1;
@@ -37,13 +37,13 @@ a:hover{
 }
 time {
   color: #000000;
-  font: 15px "helvetica neue", sans-serif;
+  font: 15px "Roboto", sans-serif;
       font-weight: normal;
 }
 
 p {
 
-  font: 15px "helvetica neue";
+  font: 15px "Roboto";
     font-weight: normal;
     color: #000000;
   margin-top: 0px;
@@ -52,7 +52,7 @@ p {
 
 
 h1 {
-  font: 18px "helvetica neue", sans-serif;
+  font: 18px "Roboto", sans-serif;
   font-weight: 500;
   color: #000000;
     letter-spacing:0px;
@@ -60,7 +60,7 @@ h1 {
 }
 
 h2 {
-  font: bold 18px "helvetica neue", sans-serif;
+  font: bold 18px "Roboto", sans-serif;
   color: #000000;
     letter-spacing:0px;
     line-height:1;
@@ -68,7 +68,7 @@ h2 {
 
 
 li {
-  font: 15px "helvetica neue", sans-serif;
+  font: 15px "Roboto", sans-serif;
   color: #000000;
   line-height: 2;
     }
@@ -94,14 +94,14 @@ li {
 
 a.title, a.title:visited {
     color: #000000;
-    font: 30px 'Comfortaa', serif;
+    font: 30px 'Josefin Slab', serif;
     text-align: left;
     text-decoration: none;
     word-spacing: normal;
 }
 
 .nav-link, .nav-link:visited {
-    font: 18px 'Comfortaa', serif;
+    font: 18px 'Josefin Slab', serif;
     color: #000000;
     line-height: 0;
     margin: 0px;
@@ -129,7 +129,7 @@ a.title, a.title:visited {
 }
 
  .page-content {
-    font:15px "helvetica neue";
+    font:15px "Roboto";
     font-weight: normal;
     background-color: transparent;
     margin-left: 20%;
@@ -146,7 +146,7 @@ a.title, a.title:visited {
 }
 
 .post-meta {
-    font: 15px "helvetica neue";
+    font: 15px "Roboto";
     font-weight: normal;
     color: #000000;
     font-weight: normal;
@@ -182,7 +182,7 @@ a.title, a.title:visited {
 
 }
 .post-title {
-  font: bold 18px "helvetica neue", sans-serif;
+  font: bold 18px "Roboto", sans-serif;
   letter-spacing: 0px;
   line-height: 1;
 
@@ -220,7 +220,7 @@ a.title, a.title:visited {
             overflow-x: hidden;
                 }
         ul, .nav-link, .nav-link:visited {
-            font: 15px 'Comfortaa', serif;
+            font: 15px 'Josefin Slab', serif;
             color: #000000;
             line-height: 0;
             margin: 0px;
@@ -235,7 +235,7 @@ a.title, a.title:visited {
             }
          h1, h1:visited {
            color: #000000;
-           font: 15px "helvetica neue", sans-serif;
+           font: 15px "Roboto", sans-serif;
            font-weight: 500;
         }
         a, a:visited{
@@ -251,7 +251,7 @@ a.title, a.title:visited {
 
     }
            .page-content {
-            font: 15px "helvetica neue";
+            font: 15px "Roboto";
             font-weight: normal;
             background-color: transparent;
             margin-top: -20px;
