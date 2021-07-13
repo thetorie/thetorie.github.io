@@ -1,53 +1,4 @@
-<!DOCTYPE html>
-<body>
-<link href="https://fonts.googleapis.com/css?family=Josefin+Slab" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-<link href="/assets/style2.css">
-<link href="https://fonts.googleapis.com/css2?family=Cinzel&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Della+Respira&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap" rel="stylesheet">
-<html lang="en">
-
-  <body>
-<head>
-<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-<title>Victoria Clark</title>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="/assets/style2.css">
-</head>
-</body>
-
-    <body>
-
-<title>Victoria Clark</title>
-<header class="site-sidebar">
-    
-    
-         <nav class="site-nav">
-
-    <a class="title" href="/">Victoria Clark</a>
-    
-            <a class="nav-link" href="/about">About</a>
-           <a class="nav-link" href="/contact">Contact</a>
-            <a class="nav-link" href="/">Projects</a>
-            <a class="nav-link" href="/resume">Resume</a>
-    </nav>
-</header>
-</body>
-
-    <main class="page-content" aria-label="Content">
-
-        <link href="https://fonts.googleapis.com/css?family=Josefin+Slab" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-<article class="post">
-
-  <header class="post-header">
-  </header>
-
-  <div class="post-content">
-    <h1>Education</h1>
+I"ž<h1>Education</h1>
 <p>Ph.D. in Critical and Comparative Studies in Music, 2021
     <br />University of Virginia</p>
 <p>M.A.T in Museum Education, 2015
@@ -105,37 +56,16 @@ Humanities Council of DC Volunteer Grant Reviewer
 <br />Penn State Dorothy Foehr Huck Research Travel Award
 <br />Indiana University Everett Helm Visiting Fellow
 <br />University of Virginia Praxis Program Fellow
-<br />University of Virginia Jefferson Scholars Foundation Fellow</p>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<br />University of Virginia Jefferson Scholars Foundation Fellow</p></p>
+
+<p><h1>Awards and Activities</h1>
+Humanities Council of DC Volunteer Grant Reviewer
+<br />Newberry Library Frances C. Allen Fellow
+<br />Penn State Dorothy Foehr Huck Research Travel Award
+<br />Indiana University Everett Helm Visiting Fellow
+<br />University of Virginia Praxis Program Fellow
+<br />University of Virginia Jefferson Scholars Foundation Fellow
 <br />
 <br />
 <br /></p>
-
-
-  </div>
-
-</article>
-
-  
-    </main>
-
-    <footer class="site-footer">
-
-
-</footer>
-
-
-  </body>
-
-</html>
+:ET
