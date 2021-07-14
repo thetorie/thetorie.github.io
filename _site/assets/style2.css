@@ -146,7 +146,7 @@ top: 35%;
 left: 20%;
 overflow-x: hidden;
                 overflow-y: auto;
-                text-align:justify;
+                text-align:left;
 
     }
 
@@ -290,6 +290,7 @@ top: 40%;
 left: 40%;*/
      vertical-align: center;
      margin-left:  -5%;
+     margin-top:  5%;
 /*margin-top: -100px; /* Negative half of height.
 /*//**margin-left: -250px*/; */*//* Negative half of width. */
 
