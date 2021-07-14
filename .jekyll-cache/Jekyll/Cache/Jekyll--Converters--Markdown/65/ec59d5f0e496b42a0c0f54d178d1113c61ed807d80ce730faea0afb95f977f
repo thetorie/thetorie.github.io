@@ -1,60 +1,10 @@
-<!DOCTYPE html>
-<body>
-
-<link href="https://fonts.googleapis.com/css?family=Josefin+Slab" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-<link href="/assets/style2.css">
-<link href="https://fonts.googleapis.com/css2?family=Cinzel&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Della+Respira&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
-<html lang="en">
-
-  <body>
-<head>
-<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-<title>Victoria Clark</title>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="/assets/style2.css">
-</head>
-</body>
-
-    <body>
-
-<title>Victoria Clark</title>
-<header class="site-sidebar">
-    
-    
-         <nav class="site-nav">
-
-    <a class="title" href="/">Victoria Clark</a>
-    
-            <a class="nav-link" href="/about">About</a>
-            <a class="nav-link" href="/">Projects</a>
-            <a class="nav-link" href="/resume">Resume</a>
-            <a class="nav-link" href="/contact">Contact</a>
-    </nav>
-</header>
-</body>
-
-    <main class="page-content" aria-label="Content">
-
-        <link href="https://fonts.googleapis.com/css?family=Josefin+Slab" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-<article class="post">
-
-  <header class="post-header">
-  </header>
-
-  <div class="post-content">
-    <h1>Education</h1>
-<p>Doctor of Philosophy in Critical and Comparative Studies in Music, 2021
+I"v
+<h1>Education</h1>
+<p>Ph.D. in Critical and Comparative Studies in Music, 2021
     <br />University of Virginia</p>
-<p>Master of Arts in Teaching Museum Education, 2015
+<p>M.A.T in Museum Education, 2015
 <br /> The George Washington University</p>
-<p>Bachelor of Arts in Music and Spanish, 2013
+<p>BA in Music and Spanish, 2013
 <br />Moravian College</p>
 
 <h1>Presentations and Publications</h1>
@@ -117,47 +67,10 @@ Humanities Council of DC Volunteer Grant Reviewer
 <br />
 <br />
 <br />
-
+<br />
+<br />
+<br />
 <br />
 <br /></p>
 
-
-  </div>
-
-</article>
-
-  
-    </main>
-
-    <footer class="site-footer">
-
-
-</footer>
-
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-/* width */
-::-webkit-scrollbar {
-  width: 10px;
-}
-
-/* Track */
-::-webkit-scrollbar-track {
-  box-shadow: inset 0 0 0px; 
-  border-radius: 0px;
-}
- 
-/* Handle */
-::-webkit-scrollbar-thumb {
-  background: #D9CED7; 
-  border-radius: 5px;
-}
-
-/* Handle on hover */
-::-webkit-scrollbar-thumb:hover {
-  background: #D9CED7; 
-}
-</style>
-  </body>
-
-</html>
+:ET

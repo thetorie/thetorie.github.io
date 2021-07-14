@@ -6,11 +6,11 @@ permalink: /resume/
 
 
 <h1>Education</h1>
- <p>Ph.D. in Critical and Comparative Studies in Music, 2021
+ <p>Doctor of Philosophy in Critical and Comparative Studies in Music, 2021
     <br>University of Virginia</p>
-<p>M.A.T in Museum Education, 2015
+<p>Master of Arts in Teaching Museum Education, 2015
 <br> The George Washington University</p>
-<p>BA in Music and Spanish, 2013
+<p>Bachelor of Arts in Music and Spanish, 2013
 <br>Moravian College</p>
           
   <h1>Presentations and Publications</h1>
@@ -27,17 +27,7 @@ permalink: /resume/
      <br>Place/Policy and Culture/Capitalism: Native American Studies Symposium, April 2018</p>
   <p>Humorous Implications of the Indianist Movement
               <br>South Central Graduate Music Consortium, October 2017</p>
-<h1>Academic and Teaching Experience</h1>
-  <p>University of Virginia Special Collections Library
-        <br>Graduate Reference Assistant
-        <br>May 2018–May 2019</p>
-<p>The Scholar’s Lab at University of Virginia
-      <br>Praxis Program Fellow
-       <br>August 2017–May 2018</p>
-<p>University of Virginia
-          <br>Teaching Assistant
-        <br>August 2015–May 2017</p>
-<h1>Experience in Nonprofits, Museums, and Cultural Institutions</h1>
+<h1>Grantmaking, Nonprofit, and Museum Experience</h1>
  <p>National Endowment for the Humanities
    <br>Interim Program Officer
        <br>May 2021–present</p>
@@ -55,7 +45,16 @@ permalink: /resume/
                 <br>Community Outreach Coordinator
                 <br>May 2015–August 2015
 </p>
-
+<h1>Academic and Teaching Experience</h1>
+  <p>University of Virginia Special Collections Library
+        <br>Graduate Reference Assistant
+        <br>May 2018–May 2019</p>
+<p>The Scholar’s Lab at University of Virginia
+      <br>Praxis Program Fellow
+       <br>August 2017–May 2018</p>
+<p>University of Virginia
+          <br>Teaching Assistant
+        <br>August 2015–May 2017</p>
  <p><h1>Awards and Activities</h1>
 
 <p>
@@ -75,9 +74,7 @@ Humanities Council of DC Volunteer Grant Reviewer
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 <br>
 <br></p>
 
