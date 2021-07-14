@@ -221,13 +221,13 @@ overflow-x: hidden;
         .site-sidebar  {
             left:  0%;
             margin-top: 4%;
-            margin-left:  40px;
-            border-right: 0px #000000 solid;
+/*            margin-left:  40px;
+*/            border-right: 0px #000000 solid;
             border-left: 0px #000000 solid;
             border-top: 0px;
             border-bottom: 0px;
               position: fixed;
-            width: 80%;
+            width: 100%;
             height: 100%;
             top: 20%;
             vertical-align: center;
@@ -240,7 +240,7 @@ overflow-x: hidden;
                 }
 
         ul, a.title, .nav-link, .nav-link:visited {
-            font: 14px 'Cinzel Decorative', serif;
+            font: 18px 'Cinzel Decorative', serif;
             color: #000000;
             line-height: 0;
         /*    margin-left: 18%;*/
@@ -248,11 +248,11 @@ overflow-x: hidden;
             }
 
         a.title {
-            font: 27px 'Cinzel Decorative', serif;
-            margin-left: 5%;
+            font: 30px 'Cinzel Decorative', serif;
+            margin-left: 12%;
         }
         .nav-link:hover{
-            color:#04C3A0;
+            color:#8E65AC;
         }
             img {
                 height: 50%;
@@ -265,7 +265,7 @@ overflow-x: hidden;
         }
         a, a:visited{
     font-size: 15px;
-    color: #04C3A0;
+    color: #8E65AC;
     line-height: 0;
     margin: 0px;
     text-decoration: none;
