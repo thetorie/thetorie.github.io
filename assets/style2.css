@@ -205,7 +205,7 @@ overflow-x: hidden;
   margin-bottom: 0px;
 }
 
-/*@media screen and (max-width: 700px){
+@media screen and (max-width: 700px){
     .site-nav, .nav-link, .nav-link:hover, .nav-link:visited {
          word-spacing: 1em;
      }
@@ -219,8 +219,6 @@ overflow-x: hidden;
 
 @media screen and (max-width: 700px){
         .site-sidebar  {
-            height: 100%;
-            width: 78px;
             left:  0%;
             margin-top: 4%;
             margin-left:  40px;
@@ -228,21 +226,31 @@ overflow-x: hidden;
             border-left: 0px #000000 solid;
             border-top: 0px;
             border-bottom: 0px;
-            position: fixed;
+              position: fixed;
+            width: 80%;
+            height: 100%;
+            top: 20%;
+            vertical-align: center;
+            text-align: center;
+/*            position: fixed;
             z-index: 1;
             top: 0;
             left: 0;
-            background-image: url("what-the-hex.png");
-            overflow-x: hidden;
+            overflow-x: hidden;*/
                 }
 
         ul, a.title, .nav-link, .nav-link:visited {
-            font: 15px 'Cinzel Decorative', serif;
+            font: 14px 'Cinzel Decorative', serif;
             color: #000000;
             line-height: 0;
-            margin: 0px;
+        /*    margin-left: 18%;*/
             text-decoration: none;
             }
+
+        a.title {
+            font: 27px 'Cinzel Decorative', serif;
+            margin-left: 5%;
+        }
         .nav-link:hover{
             color:#04C3A0;
         }
@@ -268,20 +276,21 @@ overflow-x: hidden;
             font: 15px "Roboto";
             font-weight: normal;
             background-color: transparent;
-            width:  60%;
+/*            width:  60%;
             height:  0px;
             top: 5%;
             left:  10%;
             margin-top: 0px;
-            margin-left: 90px;
-            /*    background-color: transparent;
+            margin-left: 0%;*/
+                background-color: transparent;
   position: fixed;
-width: 828px;
+/*width: 100%;
 height: 200px;
 top: 40%;
-left: 40%;
-margin-top: -100px; /* Negative half of height.
-margin-left: -250px; /* Negative half of width. */
+left: 40%;*/
+     vertical-align: center;
+/*margin-top: -100px; /* Negative half of height.
+/*//**margin-left: -250px*/; */*//* Negative half of width. */
 
     } 
     p
@@ -290,4 +299,3 @@ margin-left: -250px; /* Negative half of width. */
     }
 
 }
-*/
