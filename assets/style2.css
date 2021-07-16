@@ -94,6 +94,7 @@ top: 20%;
 a.title, a.title:visited {
     color: #000000;
     font: 53px 'Cinzel Decorative', serif;
+    font-weight:  900;
     text-align: left;
     text-decoration: none;
     word-spacing: normal;
@@ -118,6 +119,7 @@ top:  70px;
 {
     color: #8E65AC;
     text-decoration: underline;
+    font-weight:  normal;
 }
 .site-nav, .nav-link, .nav-link:hover, .nav-link:visited {
     word-spacing: 2.5em;
