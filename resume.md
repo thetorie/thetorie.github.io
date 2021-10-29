@@ -27,7 +27,7 @@ permalink: /resume/
      <br>Place/Policy and Culture/Capitalism: Native American Studies Symposium, April 2018</p>
   <p>Humorous Implications of the Indianist Movement
               <br>South Central Graduate Music Consortium, October 2017</p>
-<h1>Experience</h1>
+<h1>Selected Experience</h1>
 <P>Le Répertoire international de la presse musicale / Retrospective Index to Music Periodicals
   <br>Digital Librarian/Manager of Digital Publications
   <br>October 2021–present</P>
@@ -40,11 +40,6 @@ permalink: /resume/
                 <br>May 2019–August 2019
 </p>
 
-  <p>Smithsonian Latino Center
-                <br>Community Outreach Coordinator
-                <br>May 2015–August 2015
-</p>
-<h1>Academic and Teaching Experience</h1>
   <p>University of Virginia Special Collections Library
         <br>Graduate Reference Assistant
         <br>May 2018–May 2019</p>
