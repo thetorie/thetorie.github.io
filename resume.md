@@ -27,14 +27,13 @@ permalink: /resume/
      <br>Place/Policy and Culture/Capitalism: Native American Studies Symposium, April 2018</p>
   <p>Humorous Implications of the Indianist Movement
               <br>South Central Graduate Music Consortium, October 2017</p>
-<h1>Grantmaking, Nonprofit, and Museum Experience</h1>
+<h1>Experience</h1>
+<P>Le Répertoire international de la presse musicale / Retrospective Index to Music Periodicals
+  <br>Digital Librarian/Manager of Digital Publications
+  <br>October 2021–present</P>
  <p>National Endowment for the Humanities
    <br>Interim Program Officer
-       <br>May 2021–present</p>
- <p>The Aspen Institute
-     <br>Office of the President Intern
-    <br>November 2019–June 2020 </p>
-
+       <br>May 2021–October 2021</p>
 
  <p>National Endowment for the Humanities
                 <br>Preservation and Access Intern
