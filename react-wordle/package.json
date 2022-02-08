@@ -2,6 +2,7 @@
   "name": "game",
   "version": "0.1.0",
   "private": true,
+    "homepage": "https://thetorie.github.io/react-wordle",
   "dependencies": {
     "@headlessui/react": "^1.4.2",
     "@heroicons/react": "^1.0.5",
@@ -28,7 +29,9 @@
     "start": "react-scripts start",
     "test": "react-scripts test",
     "prepare": "husky install",
-    "homepage": "https://torieclark.com/"
+    "predeploy": "npm run build",
+"deploy": "gh-pages -d build"
+  
   },
   "eslintConfig": {
     "extends": [
