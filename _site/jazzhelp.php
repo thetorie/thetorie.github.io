@@ -175,30 +175,32 @@ img {
 
 <meta name="msapplication-TileImage" content="https://ripmjazz.org/wp-content/uploads/2019/06/cropped-RIPM_Jazz_ID-270x270.jpg" />
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/validate.js/0.13.1/validate.min.js"></script>
+
+<?php 
+if(isset($_POST['submit'])){
+    $to = "vclark@ripm.org";
+    $from = $_POST['email']; 
+    $first_name = $_POST['first_name'];
+    $last_name = $_POST['last_name'];
+    $subject = "Form submission";
+    $subject2 = "Copy of your form submission";
+    $message = $first_name . " " . $last_name . " wrote the following:" . "\n\n" . $_POST['message'];
+    $message2 = "Here is a copy of your message " . $first_name . "\n\n" . $_POST['message'];
+
+    $headers = "From:" . $from;
+    $headers2 = "From:" . $to;
+    mail($to,$subject,$message,$headers);
+    mail($from,$subject2,$message2,$headers2);
+    echo "Success";
+    }
+?>
 		</head>
 
 
 <body>
-	<?php
-      if(isset($_POST['submit'])){
-        $name = htmlspecialchars(stripslashes(trim($_POST['name'])));
-        $subject = htmlspecialchars(stripslashes(trim($_POST['subject'])));
-        $email = htmlspecialchars(stripslashes(trim($_POST['email'])));
-        $message = htmlspecialchars(stripslashes(trim($_POST['message'])));
-        if(!preg_match("/^[A-Za-z .'-]+$/", $name)){
-          $name_error = 'Invalid name';
-        }
-        if(!preg_match("/^[A-Za-z .'-]+$/", $subject)){
-          $subject_error = 'Invalid subject';
-        }
-        if(!preg_match("/^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}$/", $email)){
-          $email_error = 'Invalid email';
-        }
-        if(strlen($message) === 0){
-          $message_error = 'Your message should not be empty';
-        }
-      }
-    ?>
+
+
 
 	<header class="site-header">
 <li><div class="dropdown"><button class="dropbtn"><a href="#intro">Introduction</a></button></div></li>
@@ -702,46 +704,17 @@ img {
 <br><br><br><br>
 	<div id="reporterror"><p>
 		<h1>Report an Error</h1></p>
+
 		<p>Please fill out this form to report any errors you encounter while using RIPM Jazz Periodicals.</p>
 		<p>
-    <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" method="POST">
-      <label for="name">Name:</label><br>
-      <input type="text" name="name">
-      <p><?php if(isset($name_error)) echo $name_error; ?></p>
-      <label for="subject">Subject:</label><br>
-      <input type="text" name="subject">
-      <p><?php if(isset($subject_error)) echo $subject_error; ?></p>
-      <label for="email">Email:</label><br>
-      <input type="text" name="email">
-      <p><?php if(isset($email_error)) echo $email_error; ?></p>
-      <label for="message">Message:</label><br>
-      <textarea name="message"></textarea>
-      <p><?php if(isset($message_error)) echo $message_error; ?></p>
-      <input type="submit" name="submit" value="Submit">
-      <?php 
-        if(isset($_POST['submit']) && !isset($name_error) && !isset($subject_error) && !isset($email_error) && !isset($message_error)){
-          $to = 'vclark@ripm.org'; // edit here
-          $body = " Name: $name\n E-mail: $email\n Message:\n $message";
-          if(mail($to, $subject, $body)){
-            echo '<p style="color: green">Message sent</p>';
-          }else{
-            echo '<p>Error occurred, please try again later</p>';
-          }
-        }
-      ?>
-    </form>
 
-
-
-
-<!-- 			<form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
-
-First Name: <br><input type="text" name="first_name"><br>
-Last Name: <br><input type="text" name="last_name"><br>
-Email: <br><input type="text" name="email"><br>
+<form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
+Name: <input type="text" name="first_name"><br>
+Email: <input type="text" name="email"><br>
 Message:<br><textarea rows="5" name="message" cols="30"></textarea><br>
 <input type="submit" name="submit" value="Submit">
-  </form> --></p>
+</form>
+</p>
 	</div>
 <br><br><br><br>
 	<div id="termsandconditions"><p>
@@ -751,5 +724,6 @@ Message:<br><textarea rows="5" name="message" cols="30"></textarea><br>
 </div>
 </div>
 </div>
+
 </body>
 </html>
