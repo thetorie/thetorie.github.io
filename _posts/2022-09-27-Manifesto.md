@@ -4,4 +4,46 @@ title:  "Manifesto"
 date:   2022-09-27
 categories: Updates
 ---
+We are the field. 
 
+<a href="https://www.historians.org/ahajobsreport2022">There are more recent humanities PhDs without tenure-track jobs than there are with.</a>
+
+We do not have current statistics for how grave this situation has gotten in the past two years or so, since the beginning of the pandemic. What we do have are dozens of studies, think pieces, and blog posts about this crisis, <a href=”https://www.insidehighered.com/advice/2013/05/22/essay-defining-alt-ac-new-phd-job-searches”>stemming back from 2010 at the latest</a>. We also have alt-ac, PhD Plus, or other euphemistic programs in a growing number of graduate departments, a sign that our administrators recognize this occupational futility but cannot foresee any creative solutions to keeping their students in the scholarly community.
+
+So institutions are recognizing (and dealing with the graduate trajectory statistical fallout of) the fact that most of us are not getting academic appointments, whether we sought those positions or not. Many of us are finding fulfilling careers outside of academia or adjacent institutions, but many have resorted to career paths that were at one point unfathomable. Some of us never even wanted a job in academia. Whatever the case, we all were, at one point, passionate about research, writing, and our scholarly communities, and we now find those activities and those connections difficult to maintain. 
+
+Scholarly life is fostered in a system that was not designed for us. But, there are more of us.
+
+Sarah Buchmeier, PhD and park ranger, <a href="https://www.chronicle.com/article/does-leaving-the-university-mean-leaving-academe">wrote about this issue earlier in 2022 in the Chronicle of Higher Education.</a> Her essay includes insights about how it feels to be in your final years of graduate school knowing that you won't be a professor, and her experience trying to be a scholar outside of the academy. It is one of the only pubilshed pieces of writing we have regarding the ability of alt-ac PhDs to stay in their scholarly communities. But her arguments are anecdotal: "Academic conferences now routinely trot out independent scholars for panels on career diversity — but how often are those speakers invited to present their scholarship?", Buchmeier asks. 
+
+My belief that PhDs outside of the academy are left out of scholarly spaces is anecdotal, as well, as there are few statistics on the matter. But I firmly believe it is true, or at the very least, a lot of people whose voices are absent from higher education discourse in general feel this way.
+
+Why are our institutions not serving us beyond conferring our degrees? Think of institutions broadly: our alma maters, granting agencies, or academic and higher education societies. Why are they not doing more to serve the largest amount of scholars?
+
+How can we reorient scholarly communities to align with reality: most of us will not be in prestigious positions. Positions in higher education or adjacent institutions tangibly benefit from scholarly publishing, conference presentations, and research granting to get promoted or remain relevant. And importantly, these positions have a mutually beneficial relationship with the granting institutions, nonprofits, and publishers that depend on the labor and products of higher profile researchers to prove to their donors that their grant programs are successful, the learned society is productive, or to continue to sell a non-zero number of books.
+
+Those of us whose promotions and relevancy do not depend on an article in the journal of record are just as worthy of participating in the scholarly community as our colleagues with tenure-track jobs. After all, there are more of us. And imagine how rich, diverse, and complex scholarly discourse could be if its participants were a grants manager, a government analyst, a UX designer, and a full-time parent, particularly when that would allow scholars who have historically been left out of academic communities to participate.
+
+As mentioned, there is a lot of discourse surrounding how to *get* a job outside academia, or even how to transition from outside academia back into an academic career. Likewise, there are entire forums dedicated to posturing how careers outside academia are, in fact, actually better (!). But rarely are there conversations about those of us who accept the job outlook but want to continue our scholarly endeavors. So how can all scholars participate in scholarly life, regardless of position or title? We need all of the institutions within higher education to support us.
+
+We need a fuller picture of granting, alumni resources, conference participation, and publishing for scholars outside of the academy. We should engage in studies and surveys of the following:
+1. Granting
+- Beyond public humanities post-doctoral fellowships, how many humanities grant programs for research, scholarly projects, community projects, etc., target scholars outside of academia?
+- How many scholars outside academia earn grants that are open to all scholars regardless of institutional affiliation?
+- What kind of grant programs from state humanities boards, the NEH, or academic societies should we create to fit the reality of post-graduate scholarly life?
+
+2. Alumni/independent scholar access to scholarly resources
+- Are the databases available to alumni suitable for competitive and thorough research for multiple disciplines?
+- What are the possible creative solutions for providing better resources to alumni, knowing the FTE pricing scheme?
+- Are there other options outside of alumni access?
+
+3. Conferences and academic societies
+- How many non-affiliated scholars present papers at prominent conferences in various fields?
+- Do any societies collect statistics on the affiliations of those who submit papers to conferences? Do we have any idea of the acceptance rate for affiliated and non-affiliated scholars?
+
+4. Publishing
+- The need to publish for tenure-track professors has created a predatory academic publishing industry. And if you are not a professor, why would we willingly participate if your career does not depend on it?
+- Are there non-affiliated scholars who are interested in academic publishing?
+- If scholars outside of academia published more often, how could that affect the publishing industry?
+
+We welcome all productive insights, ideas, and ways forward. For the time being, this research will focus on one particular field. But we hope that you will consider providing data and analysis from your own discipline. Drop us a line at WeAreTheField at protonmail.com. Thanks for connecting.
