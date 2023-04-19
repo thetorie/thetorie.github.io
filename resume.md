@@ -15,7 +15,7 @@ permalink: /resume/
           
   <h1>Presentations and Publications</h1>
 <p>Review of <i>Hungry Listening: Resonant Theory for Indigenous Sound Studies</i>
-  <br>Journal of the Society for American Music, forthcoming</p>
+  <br>Journal of the Society for American Music, 2023</p>
 <p>“Musical Indianism: Reassessing the Archive”
    <br><i>Sonic Identity at the Margins</i>, eds. Joanna Love and Jessie Fillerup, Bloomsbury Publishing, 2022</p>
  <p>Musical Indianism: Reassessing the Archive
