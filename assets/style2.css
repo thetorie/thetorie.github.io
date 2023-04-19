@@ -9,7 +9,6 @@ background-image: url("white-diamond-dark.png");
     display: inline;
     min-height:100vh;
     max-width: 100%;
-    overflow: hidden;
 }
 
 main{
