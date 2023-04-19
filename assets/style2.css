@@ -147,13 +147,15 @@ width: 70%;
 height: 100%;
 top: 35%;
 left: 20%;
-overflow-x: hidden;
-                overflow-y: hidden;
-                text-align:left;
-
+text-align:left;
+ -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
     }
-
-
+.page-content::-webkit-scrollbar {
+  display: none;
+    
+}
 
 .post-list-heading{
     font-size:18px
