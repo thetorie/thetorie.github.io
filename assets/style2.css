@@ -149,8 +149,8 @@ left: 20%;
 text-align:left;
  -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;  /* Firefox */
-}
     }
+
 .page-content::-webkit-scrollbar {
   display: none;
     
