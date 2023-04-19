@@ -148,7 +148,7 @@ height: 100%;
 top: 35%;
 left: 20%;
 overflow-x: hidden;
-                overflow-y: auto;
+                overflow-y: hidden;
                 text-align:left;
 
     }
