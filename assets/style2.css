@@ -4,8 +4,8 @@ html {
 body {
     font:15px 'Playfair Display', serif;
     color:#000000;
-background-image: url("try.png");
-background-size:  cover;
+background-color: #0000fa;
+background-image: url("https://www.transparenttextures.com/patterns/climpek.png");
     display: inline;
     min-height:100vh;
     max-width: 100%;
