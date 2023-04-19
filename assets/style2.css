@@ -157,6 +157,17 @@ text-align:left;
     
 }
 
+.post {
+         overflow: auto;
+ -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.post::-webkit-scrollbar {
+  display: none;
+    
+}
+
 .post-list-heading{
     font-size:18px
 }
