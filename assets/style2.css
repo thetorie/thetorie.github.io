@@ -147,6 +147,7 @@ height: 100%;
 top: 35%;
 left: 20%;
 text-align:left;
+     overflow: auto;
  -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;  /* Firefox */
     }
