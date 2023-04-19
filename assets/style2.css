@@ -157,13 +157,13 @@ text-align:left;
     
 }
 
-.post {
+article {
          overflow: auto;
  -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;  /* Firefox */
 }
 
-.post::-webkit-scrollbar {
+article::-webkit-scrollbar {
   display: none;
     
 }
