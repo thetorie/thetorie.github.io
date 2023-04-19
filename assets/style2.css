@@ -288,11 +288,7 @@ top:  70px;
                 height: 50%;
                 width: 50%;
             }
-         h1, h1:visited {
-           color: #FFFFFF;
-           font: 18px 'Krub', sans-serif;
-           font-weight: 500;
-        }
+         
         a, a:visited{
     font-size: 15px;
     color: #FFFFFF;
