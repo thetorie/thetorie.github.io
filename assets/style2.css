@@ -155,17 +155,7 @@ text-align:left;
 .page-content::-webkit-scrollbar {
   display: none;
     
-}
 
-article {
-overflow: visible;
- -ms-overflow-style: none;  /* IE and Edge */
-  scrollbar-width: none;  /* Firefox */
-}
-
-article::-webkit-scrollbar {
-  display: none;
-    
 }
 
 .post-list-heading{
