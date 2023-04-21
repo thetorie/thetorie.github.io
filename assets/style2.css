@@ -303,29 +303,6 @@ top:  70px;
 
 
     }
-           .page-content {
-            font: 15px 'Krub', sans-serif;
-            font-weight: normal;
-            background-color: transparent;
-/*            width:  60%;
-            height:  0px;
-            top: 5%;
-            left:  10%;
-            margin-top: 0px;
-            margin-left: 0%;*/
-                background-color: transparent;
-  position: fixed;
-/*width: 100%;
-height: 200px;
-top: 40%;
-left: 40%;*/
-     vertical-align: center;
-     margin-left:  -5%;
-     margin-top:  5%;
-/*margin-top: -100px; /* Negative half of height.
-/*//**margin-left: -250px*/; */*//* Negative half of width. */
-
-    } 
     p
     {
         font-size: 15px;
