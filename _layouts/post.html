@@ -12,8 +12,8 @@ layout: default
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Krub:wght@400;700&display=swap" rel="stylesheet">
-  <div class="post-content" itemprop="articleBody">
-
+ 
+<div class="page-content"
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
     <h1>{{ page.title | escape }}</h1>
     <p class="post-meta">
@@ -25,10 +25,11 @@ layout: default
         <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
       {% endif %}</p>
   </header>
-
+ <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
 
 <a href="/">Back</a>
 </article>
+</div>
 </body>
