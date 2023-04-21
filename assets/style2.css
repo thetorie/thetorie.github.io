@@ -2,10 +2,10 @@ html {
     display: block;
 }
 body {
-    font: 15px 'Krub', sans-serif;
-    color:#FFFFFF;
-background-color: #0000fa;
-background-image: url("white-diamond-dark.png");
+    font:15px 'Playfair Display', serif;
+    color:#000000;
+background-image: url("try.png");
+background-size:  cover;
     display: inline;
     min-height:100vh;
     max-width: 100%;
@@ -16,55 +16,55 @@ main{
 }
 
 a{
-    color: #FFFFFF;
+    color: #8E65AC;
     font-size: 15px;
     text-decoration: underline;
 }
 a:visited{
-    color:#FFFFFF;
+    color:#8E65AC;
 
 }
 a:hover{
-    color:#FFFFFF;
+    color:#8E65AC;
     text-decoration: underline;
     font-weight: bold;
 
 }
 time {
-  color: #FFFFFF;
-  font: 15px 'Krub', sans-serif;
+  color: #000000;
+  font: 15px 'Playfair Display', serif;
       font-weight: normal;
 }
 
 p {
 
-  font: 15px 'Krub', sans-serif;
+  font: 15px 'Playfair Display', serif;
     font-weight: normal;
-    color: #FFFFFF;
+    color: #000000;
   margin-top: 0px;
     max-width: 900px;
 }
 
 
 h1 {
-  font: 18px 'Krub', sans-serif;
+  font: 18px 'Playfair Display', serif;
   font-weight: 500;
-  color: #FFFFFF;
+  color: #000000;
     letter-spacing:0px;
     line-height:5;
 }
 
 h2 {
-  font: bold 18px 'Krub', sans-serif;
-  color: #FFFFFF;
+  font: bold 18px 'Playfair Display', serif;
+  color: #000000;
     letter-spacing:0px;
     line-height:1;
 }
 
 
 li {
-  font: 15px 'Krub', sans-serif;
-  color: #FFFFFF;
+  font: 15px 'Playfair Display', serif;
+  color: #000000;
   line-height: 2;
     }
 
@@ -92,8 +92,8 @@ top: 20%;
 
 
 a.title, a.title:visited {
-    color: #FFFFFF;
-    font: 53px 'Krub', sans-serif;
+    color: #000000;
+    font: 53px 'Cinzel Decorative', serif;
     font-weight:  700;
     text-align: left;
     text-decoration: none;
@@ -105,8 +105,8 @@ a.title, a.title:visited {
 }
 
 .nav-link, .nav-link:visited {
-    font: 18px 'Krub', sans-serif;
-    color: #FFFFFF;
+    font: 18px 'Cinzel Decorative', serif;
+    color: #000000;
     line-height: 0;
     text-decoration: none;
     position: relative;
@@ -117,7 +117,7 @@ top:  70px;
 }
 .nav-link:hover
 {
-    color: #FFFFFF;
+    color: #8E65AC;
     text-decoration: underline;
     font-weight:  normal;
 }
@@ -127,18 +127,18 @@ top:  70px;
 
 .page-link, .page-link:visited{
     font-size: 15px;
-    color: #FFFFFF;
+    color: #8E65AC;
     line-height: 0;
     margin: 0px;
     text-decoration: none;
     }
 
 .page-link:hover{
-    color: #FFFFFF;
+    color: #8E65AC;
 }
 
  .page-content {
-    font:15px 'Krub', sans-serif;
+    font:15px 'Playfair Display', serif;
     font-weight: normal;
     background-color: transparent;
   position: fixed;
@@ -146,17 +146,11 @@ width: 70%;
 height: 100%;
 top: 35%;
 left: 20%;
-text-align:left;
-     overflow: auto;
- -ms-overflow-style: none;  /* IE and Edge */
-  scrollbar-width: none;  /* Firefox */
+overflow-x: hidden;
+                overflow-y: auto;
+                text-align:left;
+
     }
-
-.page-content::-webkit-scrollbar {
-  display: none;
-    
-
-}
 
 .post-list-heading{
     font-size:18px
@@ -167,16 +161,16 @@ text-align:left;
 }
 
 .post-meta {
-    font: 15px 'Krub', sans-serif;
+    font: 15px 'Playfair Display', serif;
     font-weight: normal;
-    color: #FFFFFF;
+    color: #000000;
     font-weight: normal;
     }
 .post-link{
     display:block;
     font-size: 15px;
     font-weight: normal;
-    color:#FFFFFF;
+    color:#8E65AC;
 }
 .post-header{
     margin-bottom:30px
@@ -186,7 +180,6 @@ text-align:left;
     letter-spacing:0px;
     line-height:1;
 }
-
 
 .post-content h2{
     font-size:18px;
@@ -204,7 +197,7 @@ text-align:left;
 
 }
 .post-title {
-  font: bold 18px 'Krub', sans-serif;
+  font: bold 18px 'Playfair Display', serif;
   letter-spacing: 0px;
   line-height: 1;
 
@@ -213,7 +206,6 @@ text-align:left;
   margin-top: 0px;
   margin-bottom: 0px;
 }
-
 
 @media screen and (max-width: 700px){
     .site-nav, .nav-link, .nav-link:hover, .nav-link:visited {
@@ -250,8 +242,8 @@ text-align:left;
                 }
 
 a.title, a.title:visited {
-    color: #FFFFFF;
-    font: 42px 'Krub', sans-serif;
+    color: #000000;
+    font: 42px 'Cinzel Decorative', serif;
     font-weight: 700;
     text-align: left;
     text-decoration: none;
@@ -263,8 +255,8 @@ a.title, a.title:visited {
 }
 
 .nav-link, .nav-link:visited {
-    font: 18px 'Krub', sans-serif;
-    color: #FFFFFF;
+    font: 18px 'Cinzel Decorative', serif;
+    color: #000000;
     line-height: 0;
     text-decoration: none;
     position: relative;
@@ -274,7 +266,7 @@ top:  70px;
 
 }
        /* ul, a.title, .nav-link, .nav-link:visited {
-            font: 18px 'Krub', sans-serif;
+            font: 18px 'Cinzel Decorative', serif;
             color: #000000;
             line-height: 0;
             margin-left: 18%;
@@ -282,27 +274,54 @@ top:  70px;
             }
 
         a.title {
-            font: 30px 'Krub', sans-serif;
+            font: 30px 'Cinzel Decorative', serif;
             margin-left: 8%;
 */
         }
         .nav-link:hover{
-            color:#FFFFFF;
+            color:#8E65AC;
         }
             img {
                 height: 50%;
                 width: 50%;
             }
-         
+         h1, h1:visited {
+           color: #000000;
+           font: 18px 'Playfair Display', serif;
+           font-weight: 500;
+        }
         a, a:visited{
     font-size: 15px;
-    color: #FFFFFF;
+    color: #8E65AC;
     line-height: 0;
     margin: 0px;
     text-decoration: none;
 
 
     }
+           .page-content {
+            font: 15px 'Playfair Display', serif;
+            font-weight: normal;
+            background-color: transparent;
+/*            width:  60%;
+            height:  0px;
+            top: 5%;
+            left:  10%;
+            margin-top: 0px;
+            margin-left: 0%;*/
+                background-color: transparent;
+  position: fixed;
+/*width: 100%;
+height: 200px;
+top: 40%;
+left: 40%;*/
+     vertical-align: center;
+     margin-left:  -5%;
+     margin-top:  5%;
+/*margin-top: -100px; /* Negative half of height.
+/*//**margin-left: -250px*/; */*//* Negative half of width. */
+
+    } 
     p
     {
         font-size: 15px;
