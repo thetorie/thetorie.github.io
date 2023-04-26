@@ -10,42 +10,18 @@
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&display=swap" rel="stylesheet">
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-
-  {% include head.html %}
-
-    {% include header.html %}
-
+ <div class="navheader">
+  <a class="title" href="/">Victoria Clark</a>
+    {% if page_paths %}
+            <a class="nav-link" href="/about">About</a>
+            <a class="nav-link" href="/">Projects</a>
+            <a class="nav-link" href="/resume">Resume</a>
+            <a class="nav-link" href="/contact">Contact</a>
+  </div>
+  
     <main class="page-content" aria-label="Content">
 
         {{ content }}
   
     </main>
-
-    {% include footer.html %}
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-/* width */
-::-webkit-scrollbar {
-  width: 10px;
-}
-
-/* Track */
-::-webkit-scrollbar-track {
-  box-shadow: inset 0 0 0px; 
-  border-radius: 0px;
-}
- 
-/* Handle */
-::-webkit-scrollbar-thumb {
-  background: #D9CED7; 
-  border-radius: 5px;
-}
-
-/* Handle on hover */
-::-webkit-scrollbar-thumb:hover {
-  background: #D9CED7; 
-}
-</style>
   </body>
-
-</html>
