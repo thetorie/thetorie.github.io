@@ -1,10 +1,8 @@
 <body>
 
 <title>&nbsp;&nbsp;Victoria Clark</title>
-<header class="site-sidebar">
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
-         <nav class="site-nav">
 
     <a class="title" href="/">&nbsp;&nbsp;Victoria Clark</a>
     {% if page_paths %}
@@ -12,6 +10,5 @@
             <a class="nav-link" href="/">Projects</a>
             <a class="nav-link" href="/resume">Resume</a>
             <a class="nav-link" href="/contact">Contact</a>
-    {% endif %}</nav>
-</header>
+    {% endif %}
 </body>
