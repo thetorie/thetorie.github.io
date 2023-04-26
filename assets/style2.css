@@ -44,6 +44,10 @@ p .post-meta {
 
 }
 
+.page-content {
+    display: block;
+}
+
 
 a {
     color: #FFFFFF;
