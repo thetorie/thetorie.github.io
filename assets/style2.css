@@ -3,9 +3,6 @@ body {
     color:#FFFFFF;
 	background-color: #0000fa;
 	background-image: url("white-diamond-dark.png");
-    display: inline;
-    min-height:100vh;
-    max-width: 100%;
 }
 
 header .site-sidebar {
@@ -24,9 +21,6 @@ a.title, a.title:visited {
     text-align: left;
     text-decoration: none;
     word-spacing: normal;
-    position:  fixed;
-    margin-top: 0%;
-    margin-left:  -1.5%;
 
 }
 
@@ -203,89 +197,4 @@ li {
 .post-header{
   margin-top: 0px;
   margin-bottom: 0px;
-}
-
-
-@media screen and (max-width: 700px){
-    .site-nav, .nav-link, .nav-link:hover, .nav-link:visited {
-         word-spacing: 1em;
-     }
-}
-
-@media screen and (max-width: 700px){
-    .site-nav, .nav-link, .nav-link:hover, .nav-link:visited {
-         word-spacing: .75em;
-     }
-}
-
-@media screen and (max-width: 700px){
-
-a.title, a.title:visited {
-    color: #FFFFFF;
-    font: 42px 'Krub', sans-serif;
-    font-weight: 700;
-    text-align: left;
-    text-decoration: none;
-    word-spacing: normal;
-    position:  fixed;
-    margin-top: 0%;
-    margin-left:  -3%;
-
-}
-
-.nav-link, .nav-link:visited {
-    font: 18px 'Krub', sans-serif;
-    color: #FFFFFF;
-    line-height: 0;
-    text-decoration: none;
-    position: relative;
-    left:  0%;
-top:  70px;
-
-
-}
-
-        }
-        .nav-link:hover{
-            color:#FFFFFF;
-        }
-            img {
-                height: 50%;
-                width: 50%;
-            }
-         
-        a, a:visited{
-    font-size: 15px;
-    color: #FFFFFF;
-    line-height: 0;
-    margin: 0px;
-    text-decoration: none;
-
-
-    }
-           .page-content {
-            font: 15px 'Krub', sans-serif;
-            font-weight: normal;
-            background-color: transparent;
-/*            width:  60%;
-            height:  0px;
-            top: 5%;
-            left:  10%;
-            margin-top: 0px;
-            margin-left: 0%;*/
-                background-color: transparent;
-  position: fixed;
-
-     vertical-align: center;
-     margin-left:  -5%;
-     margin-top:  5%;
-/*margin-top: -100px; /* Negative half of height.
-/*//**margin-left: -250px*/; */*//* Negative half of width. */
-
-    } 
-    p
-    {
-        font-size: 15px;
-    }
-
 }
