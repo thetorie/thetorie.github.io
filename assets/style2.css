@@ -77,6 +77,7 @@ p {
 
 h1 {
     font: 25px 'Assistant', sans-serif;
+	font-weight: 500;
     color: #113825;
 
 }
@@ -85,6 +86,8 @@ h2 {
   
     font: 17px 'Assistant', sans-serif;
     color: #113825;
+		font-weight: 500;
+
 }
 
 
