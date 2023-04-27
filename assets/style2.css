@@ -89,10 +89,16 @@ li {
   line-height: 2;
  }
 
+.navlinks {
+	background-color: black;
+}
 
-.nav-link, .nav-link:visited {
+
+.nav-link, .nav-link:visited, .nav-link:hover {
 
 letter-spacing: 1.5px;
+	text-decoration: none;
+	color: #ffffff;
 
 
 }
