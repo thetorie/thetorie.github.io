@@ -46,7 +46,11 @@ a.title, a.title:visited, a.title:hover {
     margin-right: 25%;
     margin-left: 25%;
 }
-
+@media only screen and (max-width: 600px) {
+.post-content {
+	width: 100vw;
+	}
+}
 .post-content2 {
 
 }
