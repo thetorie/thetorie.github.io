@@ -107,10 +107,12 @@ li {
 
 
 .nav-link, .nav-link:visited, .nav-link:hover {
+    font: 21px 'Assistant', sans-serif;
 
 letter-spacing: 1.5px;
 	text-decoration: none;
 	color: #fffffd;
+	
 
 
 }
