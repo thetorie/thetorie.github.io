@@ -49,8 +49,8 @@ a.title, a.title:visited, a.title:hover {
 @media only screen and (max-width: 600px) {
 .post-content {
 	width: 80vw;
-	    margin-right: 0;
-    margin-left: 0;
+	    margin-right: 5%;
+    margin-left: 5%;
 	}
 }
 .post-content2 {
