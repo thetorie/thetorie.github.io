@@ -43,9 +43,7 @@ header .post-header {
 
 }
 
-.post-content {
 
-}
 
 p .post-meta {
 
@@ -57,6 +55,10 @@ p .post-meta {
     width: 50vw;
     margin-right: 25%;
     margin-left: 25%;
+}
+
+.post-content2 {
+
 }
 
 .page-content {
