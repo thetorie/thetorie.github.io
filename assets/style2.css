@@ -1,7 +1,7 @@
 body {
     font: 17px 'Assistant', sans-serif;
-    color:#000000;
-	background-color: #ffffff;
+    color:#113825;
+	background-color: #fffffd;
 }
 
 .navheader {
@@ -11,7 +11,7 @@ body {
 	left: 0;
   width: 100%; /* Full width */
 	height: 200px;
-	background-color: white;
+	background-color: ##fffffd;
 	
 }
 
@@ -21,7 +21,7 @@ body {
 }
 
 a.title, a.title:visited, a.title:hover {
-    color: #000000;
+    color: #113825;
     font: 53px 'Dosis', sans-serif;
     font-weight:  700;
 	text-decoration: none;
@@ -48,7 +48,7 @@ p .post-meta {
 
 
 a {
-    color: #000000;
+    color: #113825;
     font-size: 17px;
 }
 
@@ -91,7 +91,7 @@ li {
  }
 
 .navlinks {
-	background-color: black;
+	background-color: #113825;
 }
 
 
@@ -99,7 +99,7 @@ li {
 
 letter-spacing: 1.5px;
 	text-decoration: none;
-	color: #ffffff;
+	color: ##fffffd;
 
 
 }
