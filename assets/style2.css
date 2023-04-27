@@ -30,8 +30,9 @@ a.title, a.title:visited, a.title:hover {
 
 }
 
-p .post-meta {
-
+.post-meta {
+    font: 20px 'Assistant', sans-serif;
+    color: #113825;
 }
 
 .post-content {
@@ -127,9 +128,6 @@ letter-spacing: 1.5px;
     list-style:none;
 }
 
-.post-meta {
-
-    }
 .post-link{
 
 }
