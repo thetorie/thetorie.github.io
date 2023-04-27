@@ -19,7 +19,7 @@ body {
 	margin-top: 100px;
 }
 
-a.title, a.title:visited {
+a.title, a.title:visited, a.title:hover {
     color: #000000;
     font: 53px 'Dosis', sans-serif;
     font-weight:  700;
