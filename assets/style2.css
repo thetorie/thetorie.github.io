@@ -85,21 +85,12 @@ p {
 }
 
 
-h1 {
+h1, h2, h3, h4 {
     font: 25px 'Assistant', sans-serif;
 	font-weight: 500;
     color: #082115;
 
 }
-
-h2 {
-  
-    font: 17px 'Assistant', sans-serif;
-    color: #082115;
-		font-weight: 500;
-
-}
-
 
 li {
 
