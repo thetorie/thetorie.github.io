@@ -8,7 +8,7 @@ body {
 .navheader {
 	  overflow: hidden;
 	  position: fixed; /* Set the navbar to fixed position */
-  top: 200px; /* Position the navbar at the top of the page */
+  top: 100px; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
 	height: 100px;
 	text-align: center;
@@ -48,12 +48,15 @@ p .post-meta {
 }
 
 .post-content {
-
+    display: block;
+    margin-top: 200px;
+    width: 70vw;
+    margin-right: 25%;
+    margin-left: 25%;
 }
 
 .page-content {
-    display: block;
-margin-top: 100px;
+
 }
 
 
