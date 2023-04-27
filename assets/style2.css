@@ -1,6 +1,6 @@
 body {
     font: 17px 'Assistant', sans-serif;
-    color:#113825;
+    color: #113825;
 	background-color: #fffffd;
 }
 
@@ -75,12 +75,15 @@ p {
 
 
 h1 {
+    font: 25px 'Assistant', sans-serif;
+    color: #113825;
 
 }
 
 h2 {
   
-
+    font: 17px 'Assistant', sans-serif;
+    color: #113825;
 }
 
 
