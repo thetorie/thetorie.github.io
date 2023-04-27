@@ -8,9 +8,11 @@ body {
 .navheader {
 	  overflow: hidden;
 	  position: fixed; /* Set the navbar to fixed position */
-  top: 0; /* Position the navbar at the top of the page */
+  top: 200px; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
 	height: 100px;
+	text-align: center;
+	
 }
 header .site-sidebar {
 
@@ -25,9 +27,7 @@ a.title, a.title:visited {
     color: #FFFFFF;
     font: 53px 'Krub', sans-serif;
     font-weight:  700;
-    text-align: left;
-    text-decoration: none;
-    word-spacing: normal;
+
 
 }
 
