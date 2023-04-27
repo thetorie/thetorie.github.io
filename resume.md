@@ -58,26 +58,5 @@ Humanities Council of DC Volunteer Grant Reviewer
 <br>Indiana University Everett Helm Visiting Fellow
 <br>University of Virginia Praxis Program Fellow
 <br>University of Virginia Jefferson Scholars Foundation Fellow</p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br></p>
+</p>
 
