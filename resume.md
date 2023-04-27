@@ -3,8 +3,6 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-
-
 <h1>Education</h1>
  <p>Doctor of Philosophy in Critical and Comparative Studies in Music, 2021
     <br>University of Virginia</p>
@@ -13,7 +11,7 @@ permalink: /resume/
 <p>Bachelor of Arts in Music and Spanish, 2013
 <br>Moravian College</p>
           
-  <h1>Presentations and Publications</h1>
+  <h2>Presentations and Publications</h2>
 <p>Review of <i>Hungry Listening: Resonant Theory for Indigenous Sound Studies</i>
   <br>Journal of the Society for American Music, 2023</p>
 <p>“Musical Indianism: Reassessing the Archive”
@@ -27,7 +25,7 @@ permalink: /resume/
      <br>Place/Policy and Culture/Capitalism: Native American Studies Symposium, April 2018</p>
   <p>Humorous Implications of the Indianist Movement
               <br>South Central Graduate Music Consortium, October 2017</p>
-<h1>Selected Experience</h1>
+<h3>Selected Experience</h3>
 <P>Le Répertoire international de la presse musicale / Retrospective Index to Music Periodicals
   <br>Digital Librarian/Manager of Digital Publications
   <br>October 2021–present</P>
