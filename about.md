@@ -9,20 +9,5 @@ permalink: /about/
 <p>Experienced in archival research, decolonial archival methodologies, music analysis, and interpreting American and Indigenous musical life in the 20th and 21st centuries.</p>
 
 <p>Past experience in humanities grantmaking and museum education. Interested in public narratives of American and Indigenous musical life.
-    <br> 
-    <br> 
-    <br>
-    <br> 
-    <br> 
-    <br>
-    <br> 
-    <br> 
-    <br>
-
-
- <br> 
-    <br> 
-    <br> 
-    <br>
 
 </p>
