@@ -2,6 +2,8 @@ body {
     font: 17px 'Assistant', sans-serif;
     color: #113825;
 	background-color: #fffffd;
+	  background-image: url("https://www.transparenttextures.com/patterns/brilliant.png");
+
 }
 
 .navheader {
@@ -12,6 +14,8 @@ body {
   width: 100%; /* Full width */
 	height: 200px;
 	background-color: #fffffd;
+	  background-image: url("https://www.transparenttextures.com/patterns/brilliant.png");
+
 	
 }
 
