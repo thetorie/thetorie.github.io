@@ -1,5 +1,5 @@
 body {
-    font: 15px 'Krub', sans-serif;
+    font: 15px 'Assistant', sans-serif;
     color:#000000;
 	background-color: #ffffff;
 }
@@ -18,32 +18,16 @@ body {
 		text-align: center;
 	margin-top: 100px;
 }
-header .site-sidebar {
-
-}
-
-nav .site-nav {
-
-}
 
 a.title, a.title:visited {
-	
     color: #000000;
-    font: 53px 'Krub', sans-serif;
+    font: 53px 'Dosis', sans-serif;
     font-weight:  700;
+	text-decoration: none;
+	  letter-spacing: 2.5px;
 
 
 }
-
-article class post {
-
-}
-
-header .post-header {
-
-}
-
-
 
 p .post-meta {
 
@@ -61,15 +45,10 @@ p .post-meta {
 
 }
 
-.page-content {
-
-}
-
 
 a {
     color: #000000;
     font-size: 15px;
-    text-decoration: underline;
 }
 
 a:visited {
@@ -79,17 +58,16 @@ a:visited {
 
 a:hover {
 
+    text-decoration: underline;
 
 
 }
 
-time {
 
-}
 
 p {
 
-  font: 15px 'Krub', sans-serif;
+  font: 15px 'Assistant', sans-serif;
 
 
 }
@@ -114,14 +92,13 @@ li {
 
 .nav-link, .nav-link:visited {
 
+letter-spacing: 1.5px;
 
 
 }
 .nav-link:hover
 {
 
-}
-.site-nav, .nav-link, .nav-link:hover, .nav-link:visited {
 }
 
 .page-link, .page-link:visited{
