@@ -8,11 +8,15 @@ body {
 .navheader {
 	  overflow: hidden;
 	  position: fixed; /* Set the navbar to fixed position */
-  top: 100px; /* Position the navbar at the top of the page */
+  top: 0px; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
 	height: 100px;
-	text-align: center;
 	
+}
+
+.navheader2 {
+		text-align: center;
+	margin-top: 100px;
 }
 header .site-sidebar {
 
