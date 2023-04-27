@@ -47,7 +47,7 @@ permalink: /resume/
 <p>University of Virginia
           <br>Teaching Assistant
         <br>August 2015–May 2017</p>
- <p><h1>Awards and Activities</h1>
+ <p><h4>Awards and Activities</h4>
 
 <p>
 Humanities Council of DC Volunteer Grant Reviewer
