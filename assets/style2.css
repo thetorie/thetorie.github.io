@@ -1,8 +1,7 @@
 body {
     font: 15px 'Krub', sans-serif;
-    color:#FFFFFF;
-	background-color: #0000fa;
-	background-image: url("white-diamond-dark.png");
+    color:#000000;
+	background-color: #ffffff;
 }
 
 .navheader {
@@ -11,6 +10,7 @@ body {
   top: 0px; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
 	height: 200px;
+	background-color: white;
 	
 }
 
@@ -28,7 +28,7 @@ nav .site-nav {
 
 a.title, a.title:visited {
 	
-    color: #FFFFFF;
+    color: #000000;
     font: 53px 'Krub', sans-serif;
     font-weight:  700;
 
@@ -65,7 +65,7 @@ p .post-meta {
 
 
 a {
-    color: #FFFFFF;
+    color: #000000;
     font-size: 15px;
     text-decoration: underline;
 }
