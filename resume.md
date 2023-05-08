@@ -3,58 +3,242 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-<h1>Education</h1>
- <p>Doctor of Philosophy in Critical and Comparative Studies in Music, 2021
-    <br>University of Virginia</p>
-<p>Master of Arts in Teaching Museum Education, 2015
-<br> The George Washington University</p>
-<p>Bachelor of Arts in Music and Spanish, 2013
-<br>Moravian College</p>
-          
-  <h2>Presentations and Publications</h2>
-<p>Review of <i>Hungry Listening: Resonant Theory for Indigenous Sound Studies</i>
-  <br>Journal of the Society for American Music, 2023</p>
-<p>“Musical Indianism: Reassessing the Archive”
-   <br><i>Sonic Identity at the Margins</i>, eds. Joanna Love and Jessie Fillerup, Bloomsbury Publishing, 2022</p>
- <p>Musical Indianism: Reassessing the Archive
-         <br>The Newberry Library Colloquium Series, September 2019</p>
- <p>Indianist Music and Decolonizing Methodologies
-    <br>Society for American Music Annual Meeting, March 2019
-  <br>Contested Frequencies Conference: Sonic Representation in the Digital Age, February 2019</p>
- <p>Assigning Indian Sounds: The 20th Century Indianist Movement
-     <br>Place/Policy and Culture/Capitalism: Native American Studies Symposium, April 2018</p>
-  <p>Humorous Implications of the Indianist Movement
-              <br>South Central Graduate Music Consortium, October 2017</p>
-<h3>Selected Experience</h3>
-<P>Le Répertoire international de la presse musicale / Retrospective Index to Music Periodicals
-  <br>Digital Librarian/Manager of Digital Publications
-  <br>October 2021–present</P>
- <p>National Endowment for the Humanities
-   <br>Interim Program Officer
-       <br>May 2021–October 2021</p>
+		<style>
+			body
+			{
+				padding-top:  1%;
+				padding-right: 2%;
+				padding-left:  2%;
+				background-color: #FFFFFF;
+/*				text-align:  center;*/
+				font-size:  11pt;
+				font-family:  'Assistant', sans-serif;
 
- <p>National Endowment for the Humanities
-                <br>Preservation and Access Intern
-                <br>May 2019–August 2019
-</p>
+			}
+			h1
+			{
+				text-align: center;
+				font-size:  40px;
+				margin-top:  0px;
+				margin-bottom:  0px;
+				font-family:  'Dosis', sans-serif;
+				font-weight: 700;
 
-  <p>University of Virginia Special Collections Library
-        <br>Graduate Reference Assistant
-        <br>May 2018–May 2019</p>
-<p>The Scholar’s Lab at University of Virginia
-      <br>Praxis Program Fellow
-       <br>August 2017–May 2018</p>
-<p>University of Virginia
-          <br>Teaching Assistant
-        <br>August 2015–May 2017</p>
- <p><h4>Awards and Activities</h4>
+			}
+			h2 
+			{
+				text-align:  center;
+				font-size:  16px;
+				font-weight:  normal;
+				margin-top:  0px;
+/*				color: white;*/
+			}
+			h3
+			{
+				font-size:  15px;
+				margin-top:  0px;
+				margin-bottom:  0px;
+				font-weight: bold;
+			}
 
-<p>
-Humanities Council of DC Volunteer Grant Reviewer
-<br>Newberry Library Frances C. Allen Fellow
-<br>Penn State Dorothy Foehr Huck Research Travel Award
-<br>Indiana University Everett Helm Visiting Fellow
-<br>University of Virginia Praxis Program Fellow
-<br>University of Virginia Jefferson Scholars Foundation Fellow</p>
-</p>
+			.title
+			{
+/*				font-size:  13px;
+*/			}
+			.place
+			{
+				font-style:  italic;
+			}
+			.year
+			{
+
+			}
+			.container
+			{
+    			display: flex;
+
+
+			}
+			.education 
+			{
+				border-style: solid;
+				border-width: 2px;
+				border-color: #E3E3E3;
+				border-radius: 15px;
+				background-color: #E3E3E3;
+				width:  20.5em;
+				display:  inline-block;
+				padding-right:  5%;
+				padding-left:  5%;
+				padding-top:  2%;
+				margin-right:  5vw;
+				margin-bottom:  3vw;
+
+			}
+			.experience
+			{
+				border-style: solid;
+				border-width: 2px;
+				border-color: #E3E3E3;
+				border-radius: 15px;
+				background-color: #FFFFFF;
+				width:  43em;
+				display: block;
+				padding-right:  5%;
+				padding-left:  5%;
+				padding-top:  0%;
+				margin-left:  5vw;
+				margin-bottom:  3vw;
+
+			}
+			.experience2
+			{
+				border-style: solid;
+				border-color: lightgray;
+				border-width: 1px;
+				border-radius: 30px;
+				background-color: #FFFFF9;
+				width: 23em;
+				display:  block;
+				padding:  5%;
+				margin-left:  2vw;
+				margin-bottom:  1vw;
+
+			}
+			.experience3
+			{
+				border-style: solid;
+				border-color: lightgray;
+				border-width: 1px;
+				border-radius: 30px;
+				background-color: #FFFFF9;
+				width: 38em;
+				display:  block;
+				padding:  2%;
+/*				margin-left:  2vw;
+*/			}
+
+
+			.container2
+			{
+				display:  block;
+				width: 21em;
+			}
+			ul 
+			{
+/*				list-style: none;
+*/				padding-left: 10px;
+			}
+
+			.navlinks {
+    background-color: #E3E3E3;
+    border-radius: 30px;
+}
+		</style>
+
+
+	</head>
+<body>
+	<header>
+		<h1>Victoria Clark</h1>
+		<div class="navlinks">
+		<h2>Washington, DC &nbsp; • &nbsp; victoria.clark.phd@gmail.com</h2></div>
+	</header>
+	<div class="container">
+		<div class="container2">
+			<div class="education">
+				<h3>Education</h3>
+				<p>PhD in Critical and Comparative Studies in Music
+					<br><span class="place">University of Virginia</span>
+				</p>
+				<p>MAT Museum Education
+					<br><span class="place">George Washington University</span>
+				</p>
+				<p>BA in Music and Spanish
+					<br><span class="place">Moravian College</span>
+				</p>
+
+			</div>
+			<div class="education">
+				<h3>Research</h3>
+					<p><u>Dissertation</u>
+					<br><i>The Indigenous Experience in Twentieth-Century Musical Indianism</i>, 2021
+
+					</p>
+					<p><u>Selected Publications and Presentations</u>
+					<br>Review of <i>Hungry Listening</i> by Dylan Robinson
+					<br><i>Journal of the Society for American Music</i>, 2023
+					<br>&nbsp;
+					<br>"Musical Indianism: Reassessing the Archive"
+					<br><i>Sonic Identity at the Margins</i>, eds. Joanna Love and Jessie Fillerup, Bloomsbury Publishing, 2022
+				    <br>&nbsp;
+					<br>The Newberry Library Colloquium Series, 2019
+					<br>&nbsp;
+					<br>Society for American Music Annual Meeting, 2019
+					<br>&nbsp;
+					<br>Contested Frequencies Conference: Sonic Representation in the Digital Age, 2019
+					</p>
+			</div>
+			<div class="education">
+				<h3>Humanities Advocacy and Communications</h3>
+				<p><span class="title">Researcher and Editor</span>
+					<br><span class="place">We Are the Field</span>
+					<br><span class="year">Founded 2022</span>
+				</p>
+				<p><span class="title">Grant Reviewer</span>
+				<br><span class="place">HumanitiesDC</span>
+				<br><span class="year">2020–Present</span>
+				</p>
+				<p><span class="title">Assistant Book Review Editor</span>
+				<br><span class="place">Journal of the Society for American Music</span>
+				<br><span class="year">2021–Present</span>
+				</p>
+				</div>
+		</div>
+	<div class="container2">
+			<div class="experience">
+				<p>
+					<h3>Digital Librarian</h3>
+						<span class="place">Retrospective Index to Music Periodicals (RIPM)</span>
+						<br><span class="year">2021–Present</span>
+
+				</p>
+
+
+			</div>
+			<div class="experience">
+				<p>
+					<h3>Program Officer</h3>
+							<span class="place">National Endowment for the Humanities</span>
+							<br><span class="year">2021</span>
+
+				</p>
+			</div>
+			<div class="experience">
+				<p>
+					<h3>Library Reference Assistant</h3>
+						<span class="place">University of Virginia Special Collections Library</span>
+						<br><span class="year">2018–2019</span>
+
+				</p>
+			</div>
+			<div class="experience">
+				<p>
+					<h3>Praxis Program Fellow</h3>
+						<span class="place">The Scholar's Lab at the University of Virginia</span>
+						<br><span class="year">2017–2018</span>
+
+				</p>
+			</div>
+
+			<div class="experience">
+				<p>
+					<h3>Instructor and Teaching Assistant</h3>
+						<span class="place">University of Virginia</span>
+						<br><span class="year">2015-2017</span>
+
+				</p>
+			</div>
+		</div>
+
 
