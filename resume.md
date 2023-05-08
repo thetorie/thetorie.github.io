@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-permalink: /resume/
+<!-- permalink: /resume/ -->
 ---
 <h1>Education</h1>
  <p>Doctor of Philosophy in Critical and Comparative Studies in Music, 2021
