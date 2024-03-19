@@ -1,0 +1,164 @@
+body {
+    font: 17px 'Assistant', sans-serif;
+    color: #082115;
+	background-color: #fffffd;
+	  background-image: url("https://www.transparenttextures.com/patterns/brilliant.png");
+
+}
+
+.navheader {
+	  overflow: hidden;
+	  position: fixed; /* Set the navbar to fixed position */
+  top: 0px; /* Position the navbar at the top of the page */
+	left: 0;
+  width: 100%; /* Full width */
+	height: 200px;
+	background-color: #fffffd;
+	  background-image: url("https://www.transparenttextures.com/patterns/brilliant.png");
+
+	
+}
+
+.navheader2 {
+		text-align: center;
+	margin-top: 100px;
+}
+
+a.title, a.title:visited, a.title:hover {
+    color: #133B1E;
+    font: 53px 'Protest Riot', sans-serif;
+    font-weight:  700;
+	text-decoration: none;
+
+
+}
+
+.post-meta {
+    font: 20px 'Assistant', sans-serif;
+    color: #082115;
+}
+
+.post-content {
+    display: block;
+    margin-top: 75px;
+    width: 50vw;
+    margin-right: 25%;
+    margin-left: 25%;
+}
+@media only screen and (max-width: 600px) {
+.post-content {
+	width: 85vw;
+	    margin-right: 5%;
+    margin-left: 5%;
+	}
+}
+.post-content2 {
+
+}
+
+
+a {
+    color: #082115;
+    font-size: 17px;
+}
+
+a:visited {
+
+
+}
+
+a:hover {
+
+    text-decoration: underline;
+
+
+}
+
+
+
+p {
+
+  font: 17px 'Assistant', sans-serif;
+
+
+}
+
+
+h1, h2, h3, h4 {
+    font: 25px 'Assistant', sans-serif;
+	font-weight: 500;
+    color: #082115;
+
+}
+
+li {
+
+
+  line-height: 2;
+ }
+
+.navlinks {
+	background-color: #133B1E;
+}
+
+
+.nav-link, .nav-link:visited, .nav-link:hover {
+    font: 21px 'Assistant', sans-serif;
+
+letter-spacing: 1.5px;
+	text-decoration: none;
+	color: #fffffd;
+	
+
+
+}
+.nav-link:hover
+{
+
+}
+
+.page-link, .page-link:visited{
+
+    }
+
+.page-link:hover{
+}
+
+
+
+.post-list-heading{
+}
+.post-list{
+    margin-left:0;
+    list-style:none;
+}
+
+.post-link{
+
+}
+.post-header{
+}
+.post-title{
+
+}
+
+
+.post-content h2{
+}
+
+.post-content h3{
+}
+
+.post-content h4{
+}
+.post-list {
+  padding: 0px 0px 0px 0px;
+
+}
+.post-title {
+
+
+}
+.post-header{
+
+}
