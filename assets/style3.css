@@ -33,6 +33,7 @@ a.title, a.title:visited, a.title:hover {
 
 }
 
+
 .post-meta {
     font: 20px 'Assistant', sans-serif;
     color: #082115;
@@ -84,13 +85,19 @@ p {
 }
 
 
-h1, h2, h3, h4 {
+h1 {
     font: 25px 'Assistant', sans-serif;
 	font-weight: 500;
     color: #082115;
 
 }
 
+h2, h3, h4 {
+    font: 18px 'Assistant', sans-serif;
+	font-weight: 500;
+    color: #082115;
+
+}
 li {
 
 
