@@ -57,6 +57,7 @@ a.title, a.title:visited, a.title:hover {
 
 .post-content {
     display: block;
+    position: fixed;
     margin-top: 75px;
     width: 50vw;
     margin-right: 25%;
