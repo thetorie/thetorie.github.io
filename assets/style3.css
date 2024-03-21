@@ -65,7 +65,7 @@ a.title, a.title:visited, a.title:hover {
 
 @media only screen and (max-width: 500px) {
 .post-content {
-    margin-left: 100px;
+    margin-left: 120px;
 	}
 }
 
