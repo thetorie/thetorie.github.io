@@ -5,7 +5,22 @@ body {
 	  background-image: url("https://www.transparenttextures.com/patterns/brilliant.png");
 
 }
-
+    .sidenav {
+        height: 100%;
+        width: 250px;
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        left: 0;
+        padding-top: 20px;
+    }
+    
+    /* Links in the side menu */
+    .sidenav a {
+        padding: 10px 15px;
+        text-decoration: none;
+        display: block;
+    }
 .navheader {
 	  overflow: hidden;
 	  position: fixed; /* Set the navbar to fixed position */
