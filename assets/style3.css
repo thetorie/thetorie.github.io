@@ -13,13 +13,14 @@ body {
         top: 0;
         left: 0;
         padding-top: 75px;
-	font: 15px;
     }
     
     /* Links in the side menu */
     .sidenav a {
         padding: 10px 15px;
         display: block;
+	font-size: 15px;
+
     }
 .navheader {
 	  overflow: hidden;
