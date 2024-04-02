@@ -12,9 +12,9 @@ body {
   top: 0px; /* Position the navbar at the top of the page */
 	left: 0;
   width: 100%; /* Full width */
-	height: 200px;
+	height: 190px;
 	background-color: #fffffd;
-	  background: url("pattern.png") repeat-x;
+	  background: url("https://www.transparenttextures.com/patterns/ps-neutral.png");
 
 	
 }
