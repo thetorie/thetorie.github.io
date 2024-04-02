@@ -1,7 +1,7 @@
 body {
     font: 17px 'Assistant', sans-serif;
     color: #082115;
-	background-color: #f3f7ed;
+	background-color: #fdfff8;
 	  background-image: url("https://www.transparenttextures.com/patterns/brilliant.png");
 
 }
@@ -26,10 +26,19 @@ body {
 }
 
 a.title, a.title:visited, a.title:hover {
-    color: #2C461B;
+    color: #f3f7ed;
     font: 53px 'Protest Riot', sans-serif;
     font-weight:  700;
 	text-decoration: none;
+	  text-shadow:
+    -1px -1px 0 #2C461B,
+     0   -1px 0 #2C461B,
+     1px -1px 0 #2C461B,
+     1px  0   0 #2C461B,
+     1px  1px 0 #2C461B,
+     0    1px 0 #2C461B,
+    -1px  1px 0 #2C461B,
+    -1px  0   0 #2C461B;
 
 
 }
@@ -99,7 +108,7 @@ li {
  }
 
 .navlinks {
-	background-color: #2C461B;
+	background-color: #b7d7a0;
 }
 
 
@@ -109,6 +118,8 @@ li {
 letter-spacing: 1.5px;
 	text-decoration: none;
 	color: #f3f7ed;
+	text-shadow: -1px -1px 0 #2C461B, 0   -1px 0 #2C461B, 1px -1px 0 #2C461B, 1px  0   0 #2C461B, 1px  1px 0 #2C461B, 0    1px 0 #2C461B, -1px  1px 0 #2C461B, -1px  0   0 #2C461B;
+	
 	
 
 
