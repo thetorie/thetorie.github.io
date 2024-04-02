@@ -14,7 +14,7 @@ body {
   width: 100%; /* Full width */
 	height: 200px;
 	background-color: #fffffd;
-	  background-image: url("pattern.png");
+	  background-image: url("pattern.png") repeat-x;
 
 	
 }
