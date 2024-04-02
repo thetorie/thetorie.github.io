@@ -96,11 +96,13 @@ p {
 
 h1, h2, h3, h4 {
     font: 25px 'Assistant', sans-serif;
-	font-weight: bold;
     color: #C7663E;
 
 }
+h1, h3, h4 {
 
+	font-weight: bold;
+}
 li {
 
 
