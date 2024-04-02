@@ -1,6 +1,6 @@
 body {
     font: 17px 'Assistant', sans-serif;
-    color: #082115;
+    color: #2C461B;
 	background-color: #fdfff8;
 	  background-image: url("https://www.transparenttextures.com/patterns/brilliant.png");
 
@@ -45,7 +45,7 @@ a.title, a.title:visited, a.title:hover {
 
 .post-meta {
     font: 20px 'Assistant', sans-serif;
-    color: #082115;
+    color: #2C461B;
 }
 
 .post-content {
@@ -68,7 +68,7 @@ a.title, a.title:visited, a.title:hover {
 
 
 a {
-    color: #082115;
+    color: #2C461B;
     font-size: 17px;
 }
 
@@ -97,7 +97,7 @@ p {
 h1, h2, h3, h4 {
     font: 25px 'Assistant', sans-serif;
 	font-weight: 500;
-    color: #082115;
+    color: #2C461B;
 
 }
 
