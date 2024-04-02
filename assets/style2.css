@@ -13,8 +13,7 @@ body {
 	left: 0;
   width: 100%; /* Full width */
 	height: 190px;
-	background-color: #fffffd;
-	  background-image: url("https://www.transparenttextures.com/patterns/ps-neutral.png");
+	  background: url("pattern.png");
 
 	
 }
