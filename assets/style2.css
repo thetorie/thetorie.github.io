@@ -26,19 +26,19 @@ body {
 }
 
 a.title, a.title:visited, a.title:hover {
-    color: #f3f7ed;
+    color: #C9663E;
     font: 53px 'Overlock', sans-serif;
-    font-weight:  700;
+    font-weight:  900;
 	text-decoration: none;
 	  text-shadow:
-    -1px -1px 0 #2C461B,
-     0   -1px 0 #2C461B,
-     1px -1px 0 #2C461B,
-     1px  0   0 #2C461B,
-     1px  1px 0 #2C461B,
-     0    1px 0 #2C461B,
-    -1px  1px 0 #2C461B,
-    -1px  0   0 #2C461B;
+    -.5px -.5px 0 #2C461B,
+     0   -.5px 0 #2C461B,
+     .5px -.5px 0 #2C461B,
+     .5px  0   0 #2C461B,
+     .5px  .5px 0 #2C461B,
+     0    .5px 0 #2C461B,
+    -.5px  .5px 0 #2C461B,
+    -.5px  0   0 #2C461B;
 
 
 }
@@ -119,9 +119,15 @@ li {
 
 letter-spacing: 1.5px;
 	text-decoration: none;
-	color: #f3f7ed;
-	text-shadow: -1px -1px 0 #2C461B, 0   -1px 0 #2C461B, 1px -1px 0 #2C461B, 1px  0   0 #2C461B, 1px  1px 0 #2C461B, 0    1px 0 #2C461B, -1px  1px 0 #2C461B, -1px  0   0 #2C461B;
-	
+	color: #C9663E;
+	text-shadow: -.5px -.5px 0 #2C461B,
+     0   -.5px 0 #2C461B,
+     .5px -.5px 0 #2C461B,
+     .5px  0   0 #2C461B,
+     .5px  .5px 0 #2C461B,
+     0    .5px 0 #2C461B,
+    -.5px  .5px 0 #2C461B,
+    -.5px  0   0 #2C461B;
 	
 
 
