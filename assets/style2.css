@@ -116,18 +116,13 @@ li {
 
 .nav-link, .nav-link:visited, .nav-link:hover {
     font: 21px 'Assistant', sans-serif;
+    font-weight:  700;
 
 letter-spacing: 1.5px;
 	text-decoration: none;
+	
 	color: #C9663E;
-	text-shadow: -.5px -.5px 0 #2C461B,
-     0   -.5px 0 #2C461B,
-     .5px -.5px 0 #2C461B,
-     .5px  0   0 #2C461B,
-     .5px  .5px 0 #2C461B,
-     0    .5px 0 #2C461B,
-    -.5px  .5px 0 #2C461B,
-    -.5px  0   0 #2C461B;
+	
 	
 
 
