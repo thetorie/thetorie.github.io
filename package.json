@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "intersection-observer": "^0.12.2",
-    "scrollama": "^3.2.0",
-    "scrollstory": "^1.1.0"
-  }
-}

@@ -1,11 +1,9 @@
 ---
-layout: page
+layout: default
 title: About
-permalink: /about/
 ---
- <h1>About</h1>
-<p>Digital Librarian for RIPM (Le Répertoire international de la presse musicale / Retrospective Index to Music Periodicals). PhD in Critical and Comparative Studies in Music from the University of Virginia.</p>
+## {{ page.title }} Torie
 
-<p>Digital scholarship professional, interested in open access research, linked data, and researching collections as data.</p>
+I am a writer, maker, and archivist in Washington, D.C. I am sharing my thoughts on music in society, the state of the humanities, and crafting a personal practice of making during challenging times.
 
-<p>Experienced in archival research, decolonial archival methodologies, music analysis, and interpreting American and Indigenous musical life in the 20th and 21st centuries. Past experience in humanities grantmaking and museum education.</p>
+I have PhD in Critical and Comparative Studies in Music and I care deeply about the processes of music making and listening historically and in present day. I am also an avid sewist, cook, and baker, for which I have no accreditation, but I have spent more hours honing these skills than I have reading or writing, so maybe that's my actual vocation.
