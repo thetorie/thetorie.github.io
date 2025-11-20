@@ -1,23 +1,21 @@
 ---
-layout: page
+layout: default
 ---
-<body>
-<link href="https://fonts.googleapis.com/css?family=Josefin+Slab" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-    <h1>{{ page.title | escape }}</h1>
-    <p class="post-meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {% assign date_format = site.minima.date_format | default: "%-d %b %Y" %}
-        {{ page.date | date: date_format }}
-      </time>
-      {% if page.author %}
-        <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
-      {% endif %}</p>
-  <div class="post-content2" itemprop="articleBody">
-    {{ content }}
-  <a href="/">Back</a>
-    </div>
 
-</article>
-</body>
+<h1>{{ page.title }}</h1>
+{{ page.date | date_to_string }} - {{ page.author }}
+
+{%- if page.tags -%}
+    {% for tag in page.tags %}
+        <a href="{{site.baseurl}}/archive.html#{{tag | slugize}}">
+            #{{ tag }}
+        </a>
+    {% endfor %}
+{%- endif -%} 
+
+{{ content }}
+
+<a href="/">Back</a>
+
+
+
